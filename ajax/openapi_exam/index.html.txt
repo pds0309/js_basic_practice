@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Movie</title>
+    <meta charset="UTF-8" />
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+  <body>
+    <h3>박스오피스</h3>
+    <div id="app"></div>
+    <input id="id-input" type="text" />
+    <div id="result"></div>
+  </body>
+</html>
